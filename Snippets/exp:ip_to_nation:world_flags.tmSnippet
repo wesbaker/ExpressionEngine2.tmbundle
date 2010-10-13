@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{exp:ip_to_nation:world_flags image_url="${1:http://you-site.com/images/world_flags/}"${2: type="text"}}
-{ip_address}$0
+	{ip_address}$0
 {/exp:ip_to_nation:world_flags}</string>
 	<key>name</key>
 	<string>exp:ip_to_nation:world_flags</string>

@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:mailinglist:form list="${1:default}"}
-	$0
-{/exp:mailinglist:form}</string>
+	<string>{exp:smartdown${1: encode_ee_tags="yes"}}${2:$TM_SELECTED_TEXT}{/exp:smartdown}$0</string>
+	<key>keyEquivalent</key>
+	<string>^@p</string>
 	<key>name</key>
-	<string>exp:mailinglist:form</string>
+	<string>exp:smartdown</string>
 	<key>scope</key>
 	<string>text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>exp</string>
 	<key>uuid</key>
-	<string>40D52A01-9705-4BBC-89F4-B8C50B4A4B5F</string>
+	<string>88769FBD-CBE6-4545-A378-76C0944073C8</string>
 </dict>
 </plist>

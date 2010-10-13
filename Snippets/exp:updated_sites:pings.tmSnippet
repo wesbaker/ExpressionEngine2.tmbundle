@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{exp:updated_sites:pings which="${1:default}" orderby="${2:title}" limit="${3:20}"}
-&lt;${4:p}&gt;&lt;a href="{ping_site_url}"&gt;{ping_site_name}&lt;/a&gt;&lt;/${4:p}&gt;
+	&lt;${4:p}&gt;&lt;a href="{ping_site_url}"&gt;{ping_site_name}&lt;/a&gt;&lt;/${4:p}&gt;
 {/exp:updated_sites:pings}
 $0</string>
 	<key>name</key>

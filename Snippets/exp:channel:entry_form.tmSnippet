@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:mailinglist:form list="${1:default}"}
+	<string>{exp:channel:entry_form channel="${1:channel_name}" return="${2:site/index}" ${3:parameters}}
 	$0
-{/exp:mailinglist:form}</string>
+{/exp:channel:entry_form}</string>
 	<key>name</key>
-	<string>exp:mailinglist:form</string>
+	<string>exp:channel:entry_form</string>
 	<key>scope</key>
 	<string>text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>entry_form</string>
 	<key>uuid</key>
-	<string>40D52A01-9705-4BBC-89F4-B8C50B4A4B5F</string>
+	<string>F09C2D1B-DB7A-4D80-AE00-7B5151C11D1B</string>
 </dict>
 </plist>

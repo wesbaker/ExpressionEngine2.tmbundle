@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{exp:member:ignore_list}
-$0
+	$0
 {/exp:member:ignore_list}</string>
 	<key>name</key>
 	<string>exp:member:ignore_list</string>

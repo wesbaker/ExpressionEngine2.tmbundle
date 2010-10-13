@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:mailinglist:form list="${1:default}"}
-	$0
-{/exp:mailinglist:form}</string>
+	<string>{exp:classee_body${1: attr="false"}}</string>
 	<key>name</key>
-	<string>exp:mailinglist:form</string>
+	<string>exp:classee_body</string>
 	<key>scope</key>
 	<string>text.html.ee</string>
 	<key>tabTrigger</key>
-	<string>form</string>
+	<string>classee</string>
 	<key>uuid</key>
-	<string>40D52A01-9705-4BBC-89F4-B8C50B4A4B5F</string>
+	<string>5E5EBDD9-F649-494E-9306-D3FBD261FEAE</string>
 </dict>
 </plist>

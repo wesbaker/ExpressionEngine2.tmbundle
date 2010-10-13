@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:comment:entries weblog="${1:weblog1}" ${2:parameters}}
-$0
+	<string>{exp:comment:entries channel="${1:channel_name}" ${2:parameters}}
+	$0
 {/exp:comment:entries}</string>
 	<key>name</key>
 	<string>exp:comment:entries</string>

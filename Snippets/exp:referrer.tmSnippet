@@ -10,7 +10,6 @@
 		&lt;th&gt;IP Address&lt;/th&gt;
 		&lt;th&gt;To&lt;/th&gt;
 	&lt;/tr&gt;
-
 	{exp:referrer limit="${2:50}" popup="${3:yes}"}
 	&lt;tr&gt;
 		&lt;td&gt;{ref_date format="${4:%m/%d/%Y}"}&lt;/td&gt;

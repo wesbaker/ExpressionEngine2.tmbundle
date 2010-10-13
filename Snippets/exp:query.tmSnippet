@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:query sql="$1"$2}
-$0
+	<string>{exp:query sql="$1"}
+	$0
 {/exp:query}</string>
 	<key>name</key>
 	<string>exp:query</string>
